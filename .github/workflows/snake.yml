@@ -1,12 +1,12 @@
-name: Generate Contribution Animations
+name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
+    - cron: "0 0 * * *"   # runs once a day at midnight UTC
+  workflow_dispatch:        # allows manual trigger from the Actions tab
   push:
     branches:
-      - main
+      - main                # regenerates whenever you push to main
 
 permissions:
   contents: write
@@ -14,9 +14,8 @@ permissions:
 jobs:
   generate:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Generate Snake
+      - name: Generate snake animation
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
@@ -24,17 +23,7 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Generate Pac-Man
-        uses: abozanona/pacman-contribution-graph@main
-        with:
-          github_user_name: ${{ github.repository_owner }}
-
-      - name: Copy Pac-Man files
-        run: |
-          cp pacman-contribution-graph.svg dist/
-          cp pacman-contribution-graph-dark.svg dist/
-
-      - name: Deploy
+      - name: Push output to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
