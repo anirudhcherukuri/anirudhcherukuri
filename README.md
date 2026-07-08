@@ -157,7 +157,7 @@ Peer-reviewed publication on an AI/ML solution for detecting face-swap deepfake 
 ### 🏆 Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anirudhcherukuri&theme=darkhub&no-frame=true&row=1&column=6&margin-w=8" />
+  <img src="https://github-profile-trophy.vercel.app/?username=anirudhcherukuri&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
 </p>
 
 ---
@@ -165,17 +165,14 @@ Peer-reviewed publication on an AI/ML solution for detecting face-swap deepfake 
 ### 📌 Pinned Repositories
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=REPO_NAME_1&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=REPO_NAME_2&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anirudhcherukuri&repo=Deepfake-Detection&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anirudhcherukuri&repo=Legal-Document-Analysis-Agent&theme=tokyonight&hide_border=true" width="48%" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=REPO_NAME_3&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=REPO_NAME_4&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anirudhcherukuri&repo=Private-Document-Chatbot&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anirudhcherukuri&repo=portfolio&theme=tokyonight&hide_border=true" width="48%" />
 </p>
-
-<p align="center"><sub>Replace <code>REPO_NAME_1-4</code> with your actual repo names (e.g. <code>legal-doc-agent</code>, <code>llama3-qlora-finetune</code>, <code>rag-customer-support</code>, plus one more of your choice).</sub></p>
-
----
 
 <p align="center">
   <a href="https://anirudhcherukuri.netlify.app/">🌐 Portfolio</a> •
