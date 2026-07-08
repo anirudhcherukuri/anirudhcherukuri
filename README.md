@@ -139,7 +139,7 @@ Peer-reviewed publication on an AI/ML solution for detecting face-swap deepfake 
 ### 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  <img src="https://raw.githubusercontent.com/anirudhcherukuri/anirudhcherukuri/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </p>
 
 <p align="center"><sub>Snake animates your real contribution graph — set up via the <a href="https://github.com/Platane/snk">Platane/snk</a> GitHub Action in a workflow file, output pushed to an <code>output</code> branch.</sub></p>
