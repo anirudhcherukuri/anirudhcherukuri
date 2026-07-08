@@ -154,24 +154,23 @@ Peer-reviewed publication on an AI/ML solution for detecting face-swap deepfake 
 
 ---
 
-### 🏆 Trophies
+🏆 Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anirudhcherukuri&theme=algolia&no-frame=true&no-bg=true&margin-w=8" />
+  <img src="https://github-profile-trophy.vercel.app/?username=anirudhcherukuri&theme=darkhub&no-frame=true&row=1&column=6&margin-w=8" />
 </p>
----
 
-### 📌 Pinned Repositories
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anirudhcherukuri&repo=Intelligent-Legal-Document-Analysis-Agent&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anirudhcherukuri&repo=Conversational-RAG-Customer-Support-System&theme=tokyonight&hide_border=true" width="48%" />
-</p>
+📌 Pinned Repositories
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anirudhcherukuri&repo=portfolio&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anirudhcherukuri&repo=RAG-based-customer-support-assistant-project&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anirudhcherukuri&repo=intelligent-legal-document-analysis-agent&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anirudhcherukuri&repo=llama3-qlora-finetune&theme=tokyonight&hide_border=true" width="48%" />
 </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anirudhcherukuri&repo=conversational-rag-customer-support&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anirudhcherukuri&repo=Logistic-Regression-Classification&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+<p align="center"><sub>Replace <code>REPO_NAME_1-4</code> with your actual repo names (e.g. <code>legal-doc-agent</code>, <code>llama3-qlora-finetune</code>, <code>rag-customer-support</code>, plus one more of your choice).</sub></p>
 
 <p align="center">
   <a href="https://anirudhcherukuri.netlify.app/">🌐 Portfolio</a> •
@@ -179,7 +178,5 @@ Peer-reviewed publication on an AI/ML solution for detecting face-swap deepfake 
   <a href="#">💼 LinkedIn</a> •
   <a href="#">🏆 LeetCode</a>
 </p>
-
 <p align="center"><i>Open to full-time roles in AI/ML Engineering, LLM Engineering, and GenAI Development.</i></p>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4A90E2,50:2C5364,100:0F2027&height=120&section=footer" />
