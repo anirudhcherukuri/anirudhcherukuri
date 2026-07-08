@@ -157,7 +157,7 @@ Peer-reviewed publication on an AI/ML solution for detecting face-swap deepfake 
 ### 🏆 Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=darkhub&no-frame=true&row=1&column=6&margin-w=8" />
+  <img src="https://github-profile-trophy.vercel.app/?username=anirudhcherukuri&theme=darkhub&no-frame=true&row=1&column=6&margin-w=8" />
 </p>
 
 ---
