@@ -165,13 +165,13 @@ Peer-reviewed publication on an AI/ML solution for detecting face-swap deepfake 
 ### 📌 Pinned Repositories
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anirudhcherukuri&repo=Deepfake-Detection&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anirudhcherukuri&repo=Legal-Document-Analysis-Agent&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anirudhcherukuri&repo=Intelligent-Legal-Document-Analysis-Agent&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anirudhcherukuri&repo=Conversational-RAG-Customer-Support-System&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anirudhcherukuri&repo=Private-Document-Chatbot&theme=tokyonight&hide_border=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=anirudhcherukuri&repo=portfolio&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anirudhcherukuri&repo=RAG-based-customer-support-assistant-project&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
