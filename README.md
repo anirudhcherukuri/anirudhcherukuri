@@ -1,5 +1,10 @@
-<h1 align="center">Hi 👋, I'm Anirudh Cherukuri</h1>
-<h3 align="center">Agentic AI Engineer | LLM Systems | Multi-Agent Workflows | GenAI Developer</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:4A90E2&height=220&section=header&text=Anirudh%20Cherukuri&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Agentic%20AI%20Engineer%20%7C%20LLM%20Systems%20%7C%20GenAI%20Developer&descAlignY=58&descSize=18&animation=fadeIn" />
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=2500&pause=800&color=4A90E2&center=true&vCenter=true&width=650&lines=Building+Multi-Agent+AI+Systems;LangGraph+%7C+RAG+%7C+LLM+Fine-Tuning;Turning+Prototypes+Into+Production" alt="Typing SVG" />
+  </a>
+</p>
 
 <p align="center">
   <a href="https://anirudhcherukuri.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-anirudhcherukuri.netlify.app-4A90E2?style=for-the-badge&logo=netlify&logoColor=white" /></a>
@@ -12,6 +17,12 @@
   I build <b>agentic AI systems</b> — multi-agent workflows, RAG pipelines, and fine-tuned LLMs — that go from prototype to production. 
   Currently freelancing as a full-stack web developer and actively looking for full-time roles as an 
   <b>AI/ML Engineer, LLM Engineer, or GenAI Developer</b>.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-2ECC71?style=flat-square" />
+  <img src="https://img.shields.io/badge/Based%20in-Hyderabad%2C%20India-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-Agentic%20AI%20%26%20LLMs-8A2BE2?style=flat-square" />
 </p>
 
 ---
@@ -148,16 +159,18 @@ Peer-reviewed publication on an AI/ML solution for detecting face-swap deepfake 
 
 ---
 
-### 📊 GitHub Stats
+### 📌 Pinned Repositories
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=REPO_NAME_1&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=REPO_NAME_2&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=REPO_NAME_3&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=REPO_NAME_4&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="50%" />
-</p>
+<p align="center"><sub>Replace <code>REPO_NAME_1-4</code> with your actual repo names (e.g. <code>legal-doc-agent</code>, <code>llama3-qlora-finetune</code>, <code>rag-customer-support</code>, plus one more of your choice).</sub></p>
 
 ---
 
@@ -169,3 +182,5 @@ Peer-reviewed publication on an AI/ML solution for detecting face-swap deepfake 
 </p>
 
 <p align="center"><i>Open to full-time roles in AI/ML Engineering, LLM Engineering, and GenAI Development.</i></p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4A90E2,50:2C5364,100:0F2027&height=120&section=footer" />
