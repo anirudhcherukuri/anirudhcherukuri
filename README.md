@@ -1,71 +1,171 @@
-# Hi 👋, I'm Anirudh Cherukuri
+<h1 align="center">Hi 👋, I'm Anirudh Cherukuri</h1>
+<h3 align="center">Agentic AI Engineer | LLM Systems | Multi-Agent Workflows | GenAI Developer</h3>
 
-💻 AI/ML Engineer | GenAI Enthusiast | Python Developer
+<p align="center">
+  <a href="https://anirudhcherukuri.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-anirudhcherukuri.netlify.app-4A90E2?style=for-the-badge&logo=netlify&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://leetcode.com/"><img src="https://img.shields.io/badge/LeetCode-100%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+  <a href="mailto:anirudhcherukuri41@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
----
-
-## 🚀 About Me
-
-- 🎓 B.E. Computer Science Graduate
-- 🤖 Interested in AI, Machine Learning, Generative AI
-- 🌱 Currently learning MERN Stack
-- 📫 Reach me: your@email.com
-
----
-
-## 🛠 Tech Stack
-
-### Languages
-
-- Python
-- SQL
-- JavaScript
-- C
-
-### AI/ML
-
-- TensorFlow
-- PyTorch
-- Scikit-Learn
-- OpenCV
-- LangChain
-- Hugging Face
-
-### Web
-
-- HTML
-- CSS
-- Bootstrap
-- FastAPI
-- Streamlit
-
-### Databases
-
-- MySQL
-- MongoDB
-- ChromaDB
+<p align="center">
+  I build <b>agentic AI systems</b> — multi-agent workflows, RAG pipelines, and fine-tuned LLMs — that go from prototype to production. 
+  Currently freelancing as a full-stack web developer and actively looking for full-time roles as an 
+  <b>AI/ML Engineer, LLM Engineer, or GenAI Developer</b>.
+</p>
 
 ---
 
-## 📌 Featured Projects
+### 🧠 About Me
 
-- 🔥 Deepfake Detection
-- 🤖 Mental Health Chatbot
-- 📄 Private Document Chatbot
-- ⚖️ Legal Document Analysis Agent
-
----
-
-## 📊 GitHub Stats
-
-(Add GitHub stats here)
+- 🔭 Currently building and deploying **production-grade agentic AI systems** using LangGraph, FastAPI, and vector databases
+- 💼 Freelance Web Developer for a UK client — live project: [smartdentalacademy.co.uk](https://smartdentalacademy.co.uk)
+- 🎓 Completed an **Agentic AI Internship** at Innomatics Research Labs, building planner–executor multi-agent systems
+- 📄 Published research with **Springer Nature** on deepfake detection using a Meso4 CNN classifier
+- 🌱 Deep focus on **QLoRA fine-tuning**, **RAG architectures**, and **multi-agent orchestration**
+- 💡 100+ LeetCode problems solved — strong foundation in DSA, OS, and CN
+- 📫 Reach me at **anirudhcherukuri41@gmail.com**
 
 ---
 
-## 🌐 Connect With Me
+### 🛠️ Tech Stack
 
-LinkedIn:
-https://linkedin.com/in/yourprofile
+**Agentic AI & LLMs**
+<p>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square" />
+  <img src="https://img.shields.io/badge/OpenAI%20GPT--4-412991?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Groq-F55036?style=flat-square" />
+  <img src="https://img.shields.io/badge/RAG-4B8BBE?style=flat-square" />
+  <img src="https://img.shields.io/badge/Tool--Calling-4B8BBE?style=flat-square" />
+</p>
 
-Portfolio:
-https://yourwebsite.com
+**ML, NLP & Computer Vision**
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/QLoRA%20%2F%20PEFT-8A2BE2?style=flat-square" />
+  <img src="https://img.shields.io/badge/Hugging%20Face%20TRL-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/Weights%20%26%20Biases-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=black" />
+</p>
+
+**Backend & Full-Stack**
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stripe-626CD9?style=flat-square&logo=stripe&logoColor=white" />
+</p>
+
+**Databases & Cloud**
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChromaDB%20%2F%20FAISS-6E56CF?style=flat-square" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+</p>
+
+---
+
+### 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🔎 Intelligent Legal Document Analysis Agent**
+<br/>`LangGraph` `FastAPI` `ChromaDB` `Groq Llama-3.3`
+
+Multi-agent legal review workflow that extracts contract clauses, audits liabilities, and drafts renegotiation scripts with structured JSON output. Optimized ChromaDB indexing to cut server memory footprint by 250MB+, deployed to Render with Git-triggered CI/CD.
+
+📦 [GitHub] · 🌐 [Live Demo]
+
+</td>
+<td width="50%" valign="top">
+
+**🦙 LLaMA-3 8B Domain Fine-Tuning with QLoRA**
+<br/>`QLoRA` `PEFT` `HF TRL` `BitsAndBytes` `W&B`
+
+Instruction-tuning pipeline on 15K Alpaca records using the official LLaMA-3 chat template — boosting ROUGE-L from 0.38 to 0.61. Cut training memory by 60%+ via NF4 quantization, enabling 8B-parameter fine-tuning on a single GPU.
+
+🤗 [Hugging Face Space]
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**💬 Conversational RAG Customer Support System**
+<br/>`LangChain` `LangGraph` `ChromaDB` `Groq` `FastAPI`
+
+Stateful multi-agent support workflow with hybrid dense + sparse (BM25) retrieval and a self-corrective faithfulness guardrail that cut hallucinations by 35%. Re-engineered for free-tier deployment using ONNX embeddings, slashing memory use by 75%+.
+
+📦 [GitHub] · 🌐 [Live Demo]
+
+</td>
+<td width="50%" valign="top">
+
+**🎭 Face-Swap Deepfake Detection (Published Research)**
+<br/>`Meso4 CNN` `Computer Vision` `Springer Nature`
+
+Peer-reviewed publication on an AI/ML solution for detecting face-swap deepfake videos, achieving 92.1% accuracy and 94% precision with a Meso4 CNN classifier.
+
+📄 Springer Nature, May 2025
+
+</td>
+</tr>
+</table>
+
+---
+
+### 💼 Experience
+
+**Agentic AI Intern** — Innomatics Research Labs · *Feb 2026 – May 2026*
+- Designed a planner–executor multi-agent system in LangGraph with persistent memory and dynamic tool-routing, cutting manual document processing time by 75%
+- Built a ChromaDB semantic retrieval layer achieving 92% relevant-chunk precision
+- Deployed AI chatbots and multi-agent workflows via FastAPI with agent state-machine error recovery
+
+**Freelance Web Developer** — Self-Employed (UK Client) · *May 2026 – Present*
+- Engineered and deployed [Smart Dental Academy](https://smartdentalacademy.co.uk) — a production PHP/MySQL platform with a custom admin CMS
+- Implemented secure checkout with Stripe payment gateway integration, managing full end-to-end deployment
+
+---
+
+### 🎓 Education & Certifications
+
+- **B.E. Computer Science** — Matrusri Engineering College, Osmania University (2021 – 2025)
+- **IBM** — Agentic AI & RAG
+- **AWS** — Generative AI for Developers (2025)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="50%" />
+</p>
+
+---
+
+<p align="center">
+  <a href="https://anirudhcherukuri.netlify.app/">🌐 Portfolio</a> •
+  <a href="mailto:anirudhcherukuri41@gmail.com">✉️ Email</a> •
+  <a href="#">💼 LinkedIn</a> •
+  <a href="#">🏆 LeetCode</a>
+</p>
+
+<p align="center"><i>Open to full-time roles in AI/ML Engineering, LLM Engineering, and GenAI Development.</i></p>
