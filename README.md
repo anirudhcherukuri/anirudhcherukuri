@@ -23,6 +23,7 @@
   <img src="https://img.shields.io/badge/Status-Open%20to%20Work-2ECC71?style=flat-square" />
   <img src="https://img.shields.io/badge/Based%20in-Hyderabad%2C%20India-orange?style=flat-square" />
   <img src="https://img.shields.io/badge/Focus-Agentic%20AI%20%26%20LLMs-8A2BE2?style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square&color=4A90E2&label=Profile+Views" />
 </p>
 
 ---
@@ -41,48 +42,24 @@
 
 ### 🛠️ Tech Stack
 
-**Agentic AI & LLMs**
-<p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,js,html,css,fastapi,flask,react,nodejs,express,php,postgres,mysql,mongodb,aws,azure,docker,git,linux&theme=dark" />
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
   <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square" />
   <img src="https://img.shields.io/badge/OpenAI%20GPT--4-412991?style=flat-square&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Groq-F55036?style=flat-square" />
   <img src="https://img.shields.io/badge/RAG-4B8BBE?style=flat-square" />
-  <img src="https://img.shields.io/badge/Tool--Calling-4B8BBE?style=flat-square" />
-</p>
-
-**ML, NLP & Computer Vision**
-<p>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/QLoRA%20%2F%20PEFT-8A2BE2?style=flat-square" />
   <img src="https://img.shields.io/badge/Hugging%20Face%20TRL-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
   <img src="https://img.shields.io/badge/Weights%20%26%20Biases-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=black" />
-</p>
-
-**Backend & Full-Stack**
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Stripe-626CD9?style=flat-square&logo=stripe&logoColor=white" />
-</p>
-
-**Databases & Cloud**
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/ChromaDB%20%2F%20FAISS-6E56CF?style=flat-square" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stripe-626CD9?style=flat-square&logo=stripe&logoColor=white" />
 </p>
 
 ---
@@ -156,6 +133,32 @@ Peer-reviewed publication on an AI/ML solution for detecting face-swap deepfake 
 - **B.E. Computer Science** — Matrusri Engineering College, Osmania University (2021 – 2025)
 - **IBM** — Agentic AI & RAG
 - **AWS** — Generative AI for Developers (2025)
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</p>
+
+<p align="center"><sub>Snake animates your real contribution graph — set up via the <a href="https://github.com/Platane/snk">Platane/snk</a> GitHub Action in a workflow file, output pushed to an <code>output</code> branch.</sub></p>
+
+---
+
+### 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&hide_border=true&area=true" width="100%" />
+</p>
+
+---
+
+### 🏆 Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=darkhub&no-frame=true&row=1&column=6&margin-w=8" />
+</p>
 
 ---
 
