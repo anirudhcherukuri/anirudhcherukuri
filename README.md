@@ -154,12 +154,6 @@ Peer-reviewed publication on an AI/ML solution for detecting face-swap deepfake 
 
 ---
 
-## 🎮 Pac-Man Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/anirudhcherukuri/anirudhcherukuri/output/pacman-contribution-graph-dark.svg" />
-</p>
-
 <p align="center">
   <a href="https://anirudhcherukuri.netlify.app/">🌐 Portfolio</a> •
   <a href="mailto:anirudhcherukuri41@gmail.com">✉️ Email</a> •
